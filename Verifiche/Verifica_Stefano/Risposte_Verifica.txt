@@ -1,0 +1,17 @@
+https://github.com/f-lost/Verifica_Stefano
+
+la coerenza funzionale è una caratteristica di un linguaggio di programmazione che permette di ripetere un codice su macchine diverse con lo stesso risultato. L'esempio più banale che mi viene in mente è: se io o Mirko scriviamo print("Hello World!") su un qualsiasi esecutore di Python esso ci stamperà Hello World!
+
+una classe è un modello per costruire (infiniti) oggetti dello stesso tipo.
+gli oggetti erediteranno quindi le caratteristiche della classe da cui originano.
+in una classe troviamo attributi e metodi, ma l'unico necessario è il metodo costruttore che ci permette di inizializzare un oggetto.
+
+Le tre regole fondamentali dell'OOP sono:
+
+Ereditarietà: questa regola permette ad un oggetto di ereditare tutte le caratteristiche della classe da cui origina.
+
+Polimorfismo: questa regola permette ad alcune parti del codice di ricoprire ruoli diversi a seconda della posizione dove sono scritte. L'esempio più facile è il +, che se messo tra due numeri eseguirà la somma aritmetica mentre se messo tra due stringhe le andrà ad incollare.
+
+Incapsulamento: questa regola permette di avere attributi privati e protetti in una classe che vanno ad aumentare la robustezza del codice.
+
+L'Astrazione ricopre un ruolo a parte perchè senza di essa non potremmo utilizzare le librerie di default di python ma dovremmo scrivere le definizioni di tutte le funzioni che usiamo nel nostro codice.
